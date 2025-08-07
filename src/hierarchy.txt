@@ -1,0 +1,17 @@
+port
+    node_modules
+    public
+    src
+        components folder
+        app folder
+            app.js
+            app.css
+        index.js
+        index.css
+
+npm needed:
+- npm i 
+- npm i react-router-dom
+- npm i helmet
+- npm i typewriter
+- npm i react-icons
